@@ -1,4 +1,6 @@
-# 🧮 Que son las matematicas?   ![JimmyButlerJimmyButlerPaperGIF](https://github.com/user-attachments/assets/3ddb0b18-ef6d-43c9-9243-d70f6407d95b)
+# 🧮 Que son las matematicas?   
+
+![JimmyButlerJimmyButlerPaperGIF](https://github.com/user-attachments/assets/3ddb0b18-ef6d-43c9-9243-d70f6407d95b)
 
 Las matematicas son una ciencia exacta que usa metodos inductivos para comprobar teorias e hipotesis y metodos deductivos para comprobarlas, estas
 se dividen en:
