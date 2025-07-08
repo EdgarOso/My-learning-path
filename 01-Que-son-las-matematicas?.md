@@ -16,7 +16,7 @@ Estas buscan estudiar las entidades abstractas de las propias matematicas hacen 
   - Cálculo
   - Lógica
   - Topología
-  - 
+    
 # Matematicas aplicadas: 
 ![EngineerTf2GIF](https://github.com/user-attachments/assets/1d856e38-6c2a-41f6-a1b5-c7f05e0c9857)
 
