@@ -1,0 +1,72 @@
+ID_Producto,Nombre_Producto,Categoria,Costo_Unitario
+101,  Laptop ProBook G9  ,Laptops,911.54
+102,Laptop ThinkPad T14,Laptops,989.18
+103,"MacBook Pro 14""",Laptops,
+104,Dell XPS 13,Laptops,559.07
+105,  Asus ZenBook 14  ,Laptops,1047.54
+106,Lenovo IdeaPad,Laptops,672.2
+107,HP Pavilion,Laptops,477.37
+108,Acer Aspire 5,Laptops,828.98
+109,Surface Laptop 4,Laptops,894.82
+110,MSI Creator 15,Laptops,582.32
+111,Razer Blade 15,Laptops,622.38
+112,Alienware m15,Laptops,613.58
+113,iPhone 14 Pro,Smartphones,637.48
+114,Samsung Galaxy S23,Smartphones,534.17
+115,Google Pixel 8,Smartphones,219.26
+116,OnePlus 11,Smartphones,725.82
+117,iPhone 13,Smartphones,475.31
+118,Galaxy A54,Smartphones,550.75
+119,Pixel 7a®,Smartphones,505.72
+120,Xiaomi Mi 13,Smartphones,675.25
+121,Huawei P50,Smartphones,
+122,Sony Xperia 5,Smartphones,632.43
+123,Nokia G50,Smartphones,266.93
+124,Motorola Edge 40,Smartphones,358.03
+125,"iPad Pro 12.9""",Tablets,284.3
+126,iPad Air,Tablets,
+127,  Galaxy Tab S9  ,Tablets,295.87
+128,Surface Pro 9,Tablets,524.25
+129,"iPad 10.9""",Tablets,188.54
+130,Galaxy Tab A8,Tablets,207.78
+131,Lenovo Tab P11,Tablets,340.41
+132,Amazon Fire HD,Tablets,290.27
+133,Huawei MatePad,Tablets,204.45
+134,  Xiaomi Pad 5  ,Tablets,249.1
+135,"Monitor UltraWide 34""",Monitores,469.73
+136,"Monitor Gaming 27"" 144Hz",Monitores,248.56
+137,Dell U2723QE,Monitores,431.08
+138,"ASUS ProArt 32""",Monitores,315.55
+139,LG 27GP850,Monitores,211.49
+140,Samsung Odyssey G7,Monitores,240.87
+141,BenQ PD3220U,Monitores,475.44
+142,AOC CU34G2X,Monitores,499.77
+143,ViewSonic VP2468,Monitores,233.22
+144,HP E24 G5,Monitores,301.27
+145,Teclado Mecánico RGB,Accesorios,72.11
+146,Mouse Inalámbrico Pro,Accesorios,35.9
+147,  Webcam HD 1080p  ,Accesorios,115.98
+148,Auriculares Bluetooth,Accesorios,130.12
+149,Hub USB-C,Accesorios,95.33
+150,Base Refrigerante,Accesorios,48.24
+151,Mouse Pad XXL,Accesorios,85.58
+152,Soporte Monitor,Accesorios,68.43
+153,Cable HDMI 2.1,Accesorios,24.79
+154,Cargador Universal,Accesorios,43.78
+155,Docking Station,Accesorios,64.89
+156,Auriculares Sony WH-1000XM5®,Audio,296.81
+157,AirPods Pro 2,Audio,215.85
+158,Parlante JBL Charge 5,Audio,188.31
+159,Micrófono Blue Yeti,Audio,208.56
+160,Auriculares Gamer,Audio,
+161,Soundbar Samsung,Audio,242.78
+162,  Altavoces Logitech  ,Audio,156.92
+163,Headset Corsair,Audio,275.98
+109,Surface Laptop 4,Laptops,894.82
+103,"MacBook Pro 14""",Laptops,
+120,Xiaomi Mi 13,Smartphones,675.25
+124,Motorola Edge 40,Smartphones,358.03
+158,Parlante JBL Charge 5,Audio,188.31
+151,Mouse Pad XXL,Accesorios,85.58
+156,Auriculares Sony WH-1000XM5®,Audio,296.81
+162,  Altavoces Logitech  ,Audio,156.92
